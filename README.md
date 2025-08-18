@@ -1,7 +1,7 @@
-- Hi, I’m @PSxUchiha
-- I’m interested in Linux and other open source projects.
+- Hi, I’m @ego1s1
+- I’m a third year MIT student.
 - I have a decent understanding of bash, Java, python, C++ and Linux.
-- I’m looking to collaborate on project translation, or automation scripts.
+
 
 <!---
 PSxUchiha/PSxUchiha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

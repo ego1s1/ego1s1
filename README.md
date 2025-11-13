@@ -1,6 +1,6 @@
 - Hi, I’m @ego1s1
 - I’m a third year MIT student.
-- I have a decent understanding of bash, Java, python, C++ and Linux.
+- I have a decent understanding of python, C++, javascript, next.js and Linux.
 
 
 <!---

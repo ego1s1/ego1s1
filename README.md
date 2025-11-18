@@ -7,7 +7,7 @@
 
 ### 📈 GitHub Contribution Stats
 
-![Priyanshu's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ego1s1&theme=onedark&order_by=contributions&combine_all_yearly_contributions=true)
+![Priyanshu's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ego1s1&theme=onedark&order_by=contributions&combine_all_yearly_contributions=true&limit=5)
 
 ---
 

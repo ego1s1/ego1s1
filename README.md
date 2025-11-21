@@ -6,4 +6,4 @@
 - **Focus:** Full Stack Web (React, Next.js, SQL) & AIML
 - **Recognition:** IEEE Hacksagon '25 Winner, Finova SoftLaunch '25 Runner-up
 
-[ GitHub ](https://github.com/ego1s1) • [ LinkedIn ](https://www.linkedin.com/in/ego1s1) • [ Email ](mailto:priyanshusharma1803@outlook.com)
+[ LinkedIn ](https://www.linkedin.com/in/ego1s1) • [ Email ](mailto:priyanshusharma1803@outlook.com)

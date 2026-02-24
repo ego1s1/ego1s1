@@ -1,8 +1,8 @@
 # Priyanshu Sharma
 
-> Software Developer Intern | B.Tech ECE (2023-2027)
+> ex-Software Developer Intern | ex-IT Intern | B.Tech ECE (2023-2027)
 
-- **Current:** Software Engineer Intern @ Awkward Studio
+- **Former:** Software Engineer Intern @ Awkward Studio and IT Intern @ Kotak Life Insurance
 - **Focus:** AIML, Backend heavy projects, Full Stack Web (React, Next.js, SQL)
 - **Recognition:** IEEE Hacksagon '25 Winner, Finova SoftLaunch '25 Runner-up
 

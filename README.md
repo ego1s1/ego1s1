@@ -1,4 +1,5 @@
 # Priyanshu Sharma
+Upcoming **Intern Software Engineer** at *Honeywell Aerospace*
 
 > ex-Software Developer Intern | ex-IT Intern | B.Tech ECE (2023-2027)
 
